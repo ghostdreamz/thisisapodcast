@@ -2,7 +2,8 @@ title: This is a Podcast
 #author: B+MC
 email: 
 description: "This is a Podcast is a podcast."
-baseurl: "/thisisapodcast"
+baseurl: ""
+#baseurl: "/thisisapodcast"
 url: "http://ghostdreamz.github.io/thisisapodcast"
 # social links
 twitter_username: chowthedog
@@ -31,6 +32,8 @@ github_username:  ghostdreamz
 
 # Build settings
 markdown: kramdown
+permalink: pretty
+
 kramdown:
   input: GFM
   auto_ids: true
