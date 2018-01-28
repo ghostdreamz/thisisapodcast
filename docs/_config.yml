@@ -1,8 +1,8 @@
 title: This is a Podcast
-author: B+MC
+#author: B+MC
 email: 
 description: "This is a Podcast is a podcast."
-baseurl: ""
+baseurl: "/thisisapodcast"
 url: "http://ghostdreamz.github.io/thisisapodcast"
 # social links
 twitter_username: chowthedog
@@ -17,7 +17,7 @@ github_username:  ghostdreamz
 #youtube_username: jekyll
 #googleplus_username: +jekyll
 
-show_excerpts: false # set to true to show excerpts on the homepage
+#show_excerpts: false # set to true to show excerpts on the homepage
 
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
