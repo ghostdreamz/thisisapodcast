@@ -1,9 +1,9 @@
 title: This is a Podcast
 author: B+MC
-email: thisisapodcast@fastmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  This is a Podcast is a podcast.
-
+email: 
+description: "This is a Podcast is a podcast."
+baseurl: ""
+url: "http://ghostdreamz.github.io/thisisapodcast"
 # social links
 twitter_username: chowthedog
 github_username:  ghostdreamz
